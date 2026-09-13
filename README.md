@@ -120,8 +120,8 @@ python --version
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/Zeyadmohamed291/Netflix-Customer-Churn-Analytics.git
-cd Netflix-Customer-Churn-Analytics
+git clone https://github.com/Zeyadmohamed291/Scraping_Project.git
+cd Scraping_Project
 ```
 
 ### 3. Set Up a Virtual Environment
@@ -203,7 +203,7 @@ This project is fully packaged for the Kaggle community:
 
 **Zeyad Mohamed**
 - GitHub: [@Zeyadmohamed291](https://github.com/Zeyadmohamed291)
-- Project: [Fortune Global 50 Corporate Intelligence](https://github.com/Zeyadmohamed291/Netflix-Customer-Churn-Analytics)
+- Project: [Fortune Global 50 Corporate Intelligence](https://github.com/Zeyadmohamed291/Scraping_Project)
 
 ---
 
