@@ -1,0 +1,24 @@
+{
+  "title": "Fortune Global 50 — Largest Companies Intelligence",
+  "id": "zeyadmohamed/fortune-global-50-largest-companies",
+  "subtitle": "Global corporate titans: Revenue, Net Income, Workforce & Capital Efficiency Ratios",
+  "description": "An authoritative, clean financial and workforce dataset tracking the 50 largest corporations globally by gross revenue, net profit, employee headcount, profit margins, and revenue per employee. Extracted and validated from Fortune Global 500 monitoring sources.",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "fortune-500",
+    "business-intelligence",
+    "web-scraping",
+    "companies",
+    "revenue",
+    "profitability",
+    "financial-analysis",
+    "eda",
+    "streamlit",
+    "finance",
+    "economics"
+  ]
+}
