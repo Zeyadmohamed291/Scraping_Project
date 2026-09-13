@@ -10,10 +10,11 @@
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset_Card_10.0-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-10B981?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
 ![Tests Passing](https://img.shields.io/badge/Tests-100%25_Passing-success?style=for-the-badge&logo=pytest&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_App-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://scraping-project.streamlit.app/)
 
 **An executive-grade Bloomberg/McKinsey-caliber Business Intelligence platform and macroeconomic analytical engine dissecting the world's 50 largest corporations by revenue, net income, workforce productivity, and sovereign dominance.**
 
-[🚀 Live Demo](#-quick-start--local-setup) • [📊 Architecture](#-platform-architecture--core-pillars) • [❓ Business Questions](#-strategic-business-questions-answered) • [📁 Excel Export](#-professional-openpyxl-excel-export-engine) • [📈 Kaggle Dataset](#-kaggle-dataset-integration)
+[🚀 Live Demo](https://scraping-project.streamlit.app/) • [📊 Architecture](#-platform-architecture--core-pillars) • [❓ Business Questions](#-strategic-business-questions-answered) • [📁 Excel Export](#-professional-openpyxl-excel-export-engine) • [📈 Kaggle Dataset](#-kaggle-dataset-integration)
 
 </div>
 
@@ -202,8 +203,9 @@ This project is fully packaged for the Kaggle community:
 ## 👨‍💻 Author & Connect
 
 **Zeyad Mohamed**
-- GitHub: [@Zeyadmohamed291](https://github.com/Zeyadmohamed291)
-- Project: [Fortune Global 50 Corporate Intelligence](https://github.com/Zeyadmohamed291/Scraping_Project)
+- 🚀 **Live Dashboard:** [https://scraping-project.streamlit.app/](https://scraping-project.streamlit.app/)
+- 💻 **GitHub:** [@Zeyadmohamed291](https://github.com/Zeyadmohamed291)
+- 📊 **Project Repository:** [Fortune Global 50 Corporate Intelligence](https://github.com/Zeyadmohamed291/Scraping_Project)
 
 ---
 
